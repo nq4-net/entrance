@@ -8,8 +8,10 @@
 - [Solana Labs запускает Solana Pay, платежный протокол для цифровой коммерции](https://ru.nq4.net/MpYVDvNyquS)
 
 ### Other languages:
-- [Ukranian](https://github.com/nq4-net/entrance/blob/main/ukranian.md)
+- [Ukrainian](https://github.com/nq4-net/entrance/blob/main/ukrainian.md)
 - [Bulgarian](https://github.com/nq4-net/entrance/blob/main/bulgarian.md)
 
 
 All Russian text published [here](https://ru.nq4.net/)
+
+International news in our [blog](https://blog.nq4.net)

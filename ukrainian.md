@@ -12,3 +12,5 @@
 - [Bulgarian](https://github.com/nq4-net/entrance/blob/main/bulgarian.md)
 
 All Ukranian text published [here](https://ua.nq4.net/)
+
+International news in our [blog](https://blog.nq4.net)

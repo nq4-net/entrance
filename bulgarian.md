@@ -6,5 +6,7 @@
 - [За програмата за посланици от BIT.Country](https://teletype.in/@plusua/zN_XYGhQ2tx)
 
 ### Other languages:
-- [Ukranian](https://github.com/nq4-net/entrance/blob/main/ukranian.md)
+- [Ukrainian](https://github.com/nq4-net/entrance/blob/main/ukrainian.md)
 - [Russian](https://github.com/nq4-net/entrance/blob/main/russian.md)
+
+International news in our [blog](https://blog.nq4.net)

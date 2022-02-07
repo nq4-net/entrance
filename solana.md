@@ -8,9 +8,21 @@
 ### Russian
 - [Представляем мировое турне Solana Hacker House](https://ru.nq4.net/Gdr-VMxpiF1)
 - [Solana Labs запускает Solana Pay, платежный протокол для цифровой коммерции](https://ru.nq4.net/MpYVDvNyquS)
+
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/russian.md)
 
-### Ukranian
+### Ukrainian
 - [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)
 - [Solana Labs запускає Solana Pay, платіжний протокол для цифрової комерції](https://ua.nq4.net/DqvwhBaCPsS)
-All our translation to Ukranian you can see [here](https://github.com/nq4-net/entrance/blob/main/ukranian.md)
+
+All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/ukrainian.md)
+
+## Communities and channels created, supported and moderated.
+### Ukrainian
+- [Solana Ukrainian Chat)](https://t.me/SolanaUkrainianChat)
+- [Solana for Ukrainian](https://t.me/SolanaforUkrainian)
+### Russian
+- [Solana for Russian Chat](https://t.me/SolanaforRussianChat)
+- [Solana for Russian](https://t.me/SolanaforRussian)
+
+All our communities contributions list [here](https://github.com/nq4-net/entrance/blob/main/communities.md)
