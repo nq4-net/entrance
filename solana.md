@@ -6,14 +6,16 @@
 
 ## Our contribution with translations to Solana
 ### Russian
-- [Представляем мировое турне Solana Hacker House](https://ru.nq4.net/Gdr-VMxpiF1)
+- [Дочерняя компания DeFi Technologies получила одобрение на листинг Solana ETP на Франкфуртской бирже](https://ru.nq4.net/SN-J-VMPa8q)
 - [Solana Labs запускает Solana Pay, платежный протокол для цифровой коммерции](https://ru.nq4.net/MpYVDvNyquS)
+- [Представляем мировое турне Solana Hacker House](https://ru.nq4.net/Gdr-VMxpiF1)
 
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/russian.md)
 
 ### Ukrainian
-- [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)
+- [Дочірня компанія DeFi Technologies отримала схвалення листингу Solana ETP на Франкфуртській біржі](https://ua.nq4.net/N1UDiUxGsGb)
 - [Solana Labs запускає Solana Pay, платіжний протокол для цифрової комерції](https://ua.nq4.net/DqvwhBaCPsS)
+- [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)
 
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/ukrainian.md)
 
