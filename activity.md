@@ -1,3 +1,6 @@
+## Active Mainnets
+- [Kusama](https://github.com/nq4-net/entrance/blob/main/kusama.md))
+
 ## Active Testnets
 - [Aleo](https://github.com/nq4-net/entrance/blob/main/aleo.md)
 - [Masa Finance](https://masa.finance/)
