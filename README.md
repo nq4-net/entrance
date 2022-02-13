@@ -3,9 +3,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Twitter][twitter-shield]][twitter-url]
-[![PGP][pgp-shield]][pgp-url]
-[![Reddit][reddit-shield]][reddit-url]
-[![Youtube][youtube-shield]][youtube-url]
+[![Keybase PGP]](https://img.shields.io/keybase/pgp/plusua)
+[![Subreddit subscribers]](https://img.shields.io/reddit/subreddit-subscribers/NQ4?style=social)
+[![YouTube Channel Subscribers]](https://img.shields.io/youtube/channel/subscribers/UCxf3QRE9wbjDPEF7XdqtHXw?style=social)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -78,6 +78,3 @@ Project Link: [https://github.com/nq4-net/entrance](https://github.com/nq4-net/e
 [issues-url]: https://github.com/nq4-net/entrance/issues
 [twitter-shield]: https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fnq4-net%2Fentrance%2F
 [twitter-url]: https://twitter.com/nq4_net
-[pgp-url]: https://img.shields.io/keybase/pgp/plusua
-[reddit-url]: https://img.shields.io/reddit/subreddit-subscribers/NQ4?style=social
-[youtube-url]: https://img.shields.io/youtube/channel/subscribers/UCxf3QRE9wbjDPEF7XdqtHXw?style=social
