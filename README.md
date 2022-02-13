@@ -49,7 +49,7 @@ In 22, we plan to expand the team and start educating people, introduce them to 
 
 <!-- SOCIAL -->
 ## Social
-- [Twitter](https://twitter.com/nq4_net)
+- [Twitter][twitter-url]
 - [Medium](https://blog.nq4.net)
 - [YouTube](https://www.youtube.com/channel/UCxf3QRE9wbjDPEF7XdqtHXw)
 - [LinkedIn](https://www.linkedin.com/company/nq4-net/)
@@ -60,7 +60,9 @@ In 22, we plan to expand the team and start educating people, introduce them to 
 ## Contact
 
 Oleksandr Chub - [@huan_carlos](https://twitter.com/huan_carlos) - admin@nq4.net
+
 Company Link: [https://github.com/nq4-net](https://github.com/nq4-net)
+
 Project Link: [https://github.com/nq4-net/entrance](https://github.com/nq4-net/entrance)
 
 <!-- ACKNOWLEDGEMENTS -->
