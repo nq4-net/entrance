@@ -3,9 +3,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Twitter][twitter-shield]][twitter-url]
-[![Keybase PGP]](https://img.shields.io/keybase/pgp/plusua)
-[![Subreddit subscribers]](https://img.shields.io/reddit/subreddit-subscribers/NQ4?style=social)
-[![YouTube Channel Subscribers]](https://img.shields.io/youtube/channel/subscribers/UCxf3QRE9wbjDPEF7XdqtHXw?style=social)
+![Keybase PGP](https://img.shields.io/keybase/pgp/plusua)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/NQ4?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxf3QRE9wbjDPEF7XdqtHXw?style=social)
 
 <!-- PROJECT LOGO -->
 <br />
