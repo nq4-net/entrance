@@ -2,4 +2,4 @@
 
 ## Our technical contributions to SSV
 
-- We validate in [testnet](https://explorer.ssv.network/operators/d4bec799b5141dd28509ac5b551f695b90b618fe806d4df4156881ec1b3affd4)
+- We validate in [testnet](https://explorer.ssv.network/validators/b9889f1f6376ca0eb6c6b416eff1e926106df881514ec60536dd863b841a2b243f5aa80e8c223ade883d517c0c9b3b15)

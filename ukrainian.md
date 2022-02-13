@@ -4,6 +4,8 @@
 
 ### Ukranian
 
+- [Думаєте про ідеальний подарунок на День Святого Валентина?](https://ua.nq4.net/Ur2Cqce29p8)
+- [Представляємо приз для піонерів Polkadot!](https://ua.nq4.net/iEbLv0R_TiF)
 - [Дочірня компанія DeFi Technologies отримала схвалення листингу Solana ETP на Франкфуртській біржі](https://ua.nq4.net/N1UDiUxGsGb)
 - [Solana Labs запускає Solana Pay, платіжний протокол для цифрової комерції](https://ua.nq4.net/DqvwhBaCPsS)
 - [Про програму для амбасадорів від BIT.Country](https://teletype.in/@plusua/5F6vZ0Oijij)

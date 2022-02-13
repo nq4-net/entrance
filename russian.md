@@ -3,6 +3,8 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Представляем приз для пионеров Polkadot!](https://ru.nq4.net/PDHMgDQMvFv)
+- [Думаете об идеальном подарке на День Святого Валентина?](https://ru.nq4.net/vRnA4V3cL7G)
 - [Дочерняя компания DeFi Technologies получила одобрение на листинг Solana ETP на Франкфуртской бирже](https://ru.nq4.net/SN-J-VMPa8q)
 - [Solana Labs запускает Solana Pay, платежный протокол для цифровой коммерции](https://ru.nq4.net/MpYVDvNyquS)
 - [Представляем мировое турне Solana Hacker House](https://ru.nq4.net/Gdr-VMxpiF1)

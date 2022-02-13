@@ -1,5 +1,6 @@
 ## Active Mainnets
-- [Kusama](https://github.com/nq4-net/entrance/blob/main/kusama.md))
+- [Kusama](https://github.com/nq4-net/entrance/blob/main/kusama.md)
+- [Polkadot](https://github.com/nq4-net/entrance/blob/main/polkadot.md)
 
 ## Active Testnets
 - [Aleo](https://github.com/nq4-net/entrance/blob/main/aleo.md)
