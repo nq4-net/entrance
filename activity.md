@@ -1,9 +1,9 @@
 ## Active Mainnets
+- [KAVA](https://github.com/nq4-net/entrance/blob/main/kava.md)
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/kusama.md)
 - [Polkadot](https://github.com/nq4-net/entrance/blob/main/polkadot.md)
 
 ## Active Testnets
-- [Aleo](https://github.com/nq4-net/entrance/blob/main/aleo.md)
 - [Masa Finance](https://masa.finance/)
 - [Casper](https://github.com/nq4-net/entrance/blob/main/casper.md)
 - [Bit.Country](https://github.com/nq4-net/entrance/blob/main/bitcountry.md)
@@ -38,3 +38,4 @@
 - [Vega](https://github.com/nq4-net/entrance/blob/main/vega.md)
 - [Evmos](https://github.com/nq4-net/entrance/blob/main/evmos.md)
 - [Meson](https://meson.network/)
+- [Aleo](https://github.com/nq4-net/entrance/blob/main/aleo.md)

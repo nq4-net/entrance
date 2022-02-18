@@ -2,10 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Twitter][twitter-shield]][twitter-url]
-![Keybase PGP](https://img.shields.io/keybase/pgp/plusua)
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/NQ4?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxf3QRE9wbjDPEF7XdqtHXw?style=social)
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -33,7 +30,6 @@ We think and insist about necessity will doing all possibilities with all high o
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#social">Social links</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -49,7 +45,7 @@ In 22, we plan to expand the team and start educating people, introduce them to 
 
 <!-- SOCIAL -->
 ## Social
-- [Twitter][twitter-url]
+- [Twitter](https://twitter.com/nq4_net)
 - [Medium](https://blog.nq4.net)
 - [YouTube](https://www.youtube.com/channel/UCxf3QRE9wbjDPEF7XdqtHXw)
 - [LinkedIn](https://www.linkedin.com/company/nq4-net/)
@@ -65,10 +61,10 @@ Company Link: [https://github.com/nq4-net](https://github.com/nq4-net)
 
 Project Link: [https://github.com/nq4-net/entrance](https://github.com/nq4-net/entrance)
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Markdown](https://daringfireball.net/projects/markdown/)
-* [Shields.io](https://shields.io)
+![Twitter Follow](https://img.shields.io/twitter/follow/nq4_net?style=social)
+![Keybase PGP](https://img.shields.io/keybase/pgp/plusua)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/NQ4?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxf3QRE9wbjDPEF7XdqtHXw?style=social)
 
 [contributors-shield]: https://img.shields.io/github/contributors/nq4-net/entrance
 [contributors-url]: https://github.com/nq4-net/entrance/graphs/contributors
@@ -78,5 +74,3 @@ Project Link: [https://github.com/nq4-net/entrance](https://github.com/nq4-net/e
 [stars-url]: https://github.com/nq4-net/entrance/stargazers
 [issues-shield]: https://img.shields.io/github/issues/nq4-net/entrance
 [issues-url]: https://github.com/nq4-net/entrance/issues
-[twitter-shield]: https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fnq4-net%2Fentrance%2F
-[twitter-url]: https://twitter.com/nq4_net
