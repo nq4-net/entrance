@@ -2,4 +2,6 @@
 
 ## Our technical contributions to Aleo
 
-- We part of [testnet](https://nodes.guru/aleo/aleochecker?q=aleo1al98klrj4z4syxxmkr9drahh8jd5a50cx7xus55940w7rjzxp5fq2hght3)
+- We part of testnet
+- - Primary - aleo1al98klrj4z4syxxmkr9drahh8jd5a50cx7xus55940w7rjzxp5fq2hght3
+- - Secondary - aleo18m4m8nlhvrhxeydgerc9zxf8uske8r8qgkg4kqfw27mneqfqtqpq644pvd

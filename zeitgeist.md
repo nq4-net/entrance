@@ -2,4 +2,4 @@
 
 ## Our technical contributions to Zeitgeist
 
-- We validate in [testnet](12D3KooWGPHqyqbzjjRnMD7yQogGyNNEQ359RkX8KF5GozCLNceY)
+- Our active ID: 12D3KooWGPHqyqbzjjRnMD7yQogGyNNEQ359RkX8KF5GozCLNceY

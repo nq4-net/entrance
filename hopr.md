@@ -2,4 +2,4 @@
 
 ## Our technical contributions to Hopr
 
-- We validate in [testnet](16Uiu2HAm7EseP3Q26UdrrtogAcVTd9HyfkXHFVsbBG69S7q9YfNu)
+- Our ID: 16Uiu2HAm7EseP3Q26UdrrtogAcVTd9HyfkXHFVsbBG69S7q9YfNu

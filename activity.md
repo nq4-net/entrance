@@ -1,4 +1,5 @@
 ## Active Mainnets
+- [Fetch](https://github.com/nq4-net/entrance/blob/main/fetch.md)
 - [KAVA](https://github.com/nq4-net/entrance/blob/main/kava.md)
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/kusama.md)
 - [Polkadot](https://github.com/nq4-net/entrance/blob/main/polkadot.md)
@@ -23,7 +24,7 @@
 ## Early testers campaign:
 - [Euler](https://www.euler.finance/)
 - [Aleph Zero](https://alephzero.org/)
-- [Koii](https://koii.network/)
+- [Koii](https://github.com/nq4-net/entrance/blob/main/koii.md)
 
 ## Active Devnets
 - [Celestia](https://github.com/nq4-net/entrance/blob/main/celestia.md)
