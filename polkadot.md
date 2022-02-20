@@ -16,11 +16,13 @@ All our communities contributions list [here](https://github.com/nq4-net/entranc
 
 ## Our contribution with translations to Polkadot
 ### Ukrainian
+- [Polkadot Decoded: Надішліть свою пропозицію для найбільшої події року в мережі Polkadot](https://ua.nq4.net/_6ZEQkvlXFq)
 - [Представляємо приз для піонерів Polkadot!](https://ua.nq4.net/iEbLv0R_TiF)
 
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/ukrainian.md)
 
 ### Russian
+- [Polkadot Decoded: Отправьте свое предложение для крупнейшего события года в сети Polkadot](https://ru.nq4.net/p-vIeRlLHxO)
 - [Представляем приз для пионеров Polkadot!](https://ru.nq4.net/PDHMgDQMvFv)
 
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/russian.md)

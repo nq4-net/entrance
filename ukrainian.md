@@ -3,7 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
-
+- [Polkadot Decoded: Надішліть свою пропозицію для найбільшої події року в мережі Polkadot](https://ua.nq4.net/_6ZEQkvlXFq)
 - [Думаєте про ідеальний подарунок на День Святого Валентина?](https://ua.nq4.net/Ur2Cqce29p8)
 - [Представляємо приз для піонерів Polkadot!](https://ua.nq4.net/iEbLv0R_TiF)
 - [Дочірня компанія DeFi Technologies отримала схвалення листингу Solana ETP на Франкфуртській біржі](https://ua.nq4.net/N1UDiUxGsGb)
