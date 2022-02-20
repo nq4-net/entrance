@@ -1,4 +1,5 @@
 ## Active Mainnets
+- [ODIN protocol](https://github.com/nq4-net/entrance/blob/main/odin.md)
 - [Fetch](https://github.com/nq4-net/entrance/blob/main/fetch.md)
 - [KAVA](https://github.com/nq4-net/entrance/blob/main/kava.md)
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/kusama.md)
