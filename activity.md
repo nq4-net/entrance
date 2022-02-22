@@ -1,4 +1,6 @@
 ## Active Mainnets
+- [Certik](https://github.com/nq4-net/entrance/blob/main/certik.md)
+- [BAND protocol](https://github.com/nq4-net/entrance/blob/main/band.md)
 - [ODIN protocol](https://github.com/nq4-net/entrance/blob/main/odin.md)
 - [Fetch](https://github.com/nq4-net/entrance/blob/main/fetch.md)
 - [KAVA](https://github.com/nq4-net/entrance/blob/main/kava.md)
