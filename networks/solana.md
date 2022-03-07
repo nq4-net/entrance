@@ -10,14 +10,14 @@
 - [Solana Labs запускає Solana Pay, платіжний протокол для цифрової комерції](https://ua.nq4.net/DqvwhBaCPsS)
 - [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)
 
-All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/ukrainian.md)
+All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/languages/blob/main/ukrainian.md)
 
 ### Russian
 - [Дочерняя компания DeFi Technologies получила одобрение на листинг Solana ETP на Франкфуртской бирже](https://ru.nq4.net/SN-J-VMPa8q)
 - [Solana Labs запускает Solana Pay, платежный протокол для цифровой коммерции](https://ru.nq4.net/MpYVDvNyquS)
 - [Представляем мировое турне Solana Hacker House](https://ru.nq4.net/Gdr-VMxpiF1)
 
-All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/russian.md)
+All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/languages/blob/main/russian.md)
 
 ## Communities and channels created, supported and moderated.
 ### Ukrainian
@@ -28,3 +28,8 @@ All our translation to Russian you can see [here](https://github.com/nq4-net/ent
 - [Solana for Russian](https://t.me/SolanaforRussian)
 
 All our communities contributions list [here](https://github.com/nq4-net/entrance/blob/main/communities.md)
+
+
+
+[<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)
+[<<back to main](https://github.com/nq4-net/entrance)

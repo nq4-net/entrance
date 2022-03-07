@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -14,12 +8,10 @@
  We provide nice quality to all networks and communities for growth of possibilities.
 We think and insist about necessity will doing all possibilities with all high of power and synergy in all parts of chains and peoples.
     <br />
-    At the moment, NQ4.NET are represented in almost 25 networks, in the test-nets, dev-nets and in the main-nets. Here list of all our <a href="https://github.com/nq4-net/entrance/blob/main/activity.md"><strong>activity »</strong></a>.
+    At the moment, NQ4.NET are represented in almost 25 networks, in the test-nets, dev-nets and in the main-nets. Here list of all our <a href="https://github.com/nq4-net/entrance/tree/main/networks"><strong>activity »</strong></a>.
     <br />
     <br />
-    <a href="https://github.com/nq4-net/entrance/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/nq4-net/entrance/issues">Request Feature</a>
+    <a href="https://github.com/nq4-net/entrance/issues">Report Bug</a>·
   </p>
 </p>
 <!-- TABLE OF CONTENTS -->
@@ -65,12 +57,3 @@ Project Link: [https://github.com/nq4-net/entrance](https://github.com/nq4-net/e
 ![Keybase PGP](https://img.shields.io/keybase/pgp/plusua)
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/NQ4?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxf3QRE9wbjDPEF7XdqtHXw?style=social)
-
-[contributors-shield]: https://img.shields.io/github/contributors/nq4-net/entrance
-[contributors-url]: https://github.com/nq4-net/entrance/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nq4-net/entrance
-[forks-url]: https://github.com/nq4-net/entrance/network/members
-[stars-shield]: https://img.shields.io/github/stars/nq4-net/entrance
-[stars-url]: https://github.com/nq4-net/entrance/stargazers
-[issues-shield]: https://img.shields.io/github/issues/nq4-net/entrance
-[issues-url]: https://github.com/nq4-net/entrance/issues

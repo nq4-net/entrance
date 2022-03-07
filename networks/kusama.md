@@ -18,9 +18,13 @@ All our communities contributions list [here](https://github.com/nq4-net/entranc
 ### Ukrainian
 - [Думаєте про ідеальний подарунок на День Святого Валентина?](https://ua.nq4.net/Ur2Cqce29p8)
 
-All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/ukrainian.md)
+All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/languages/blob/main/ukrainian.md)
 
 ### Russian
 - [Думаете об идеальном подарке на День Святого Валентина?](https://ru.nq4.net/vRnA4V3cL7G)
 
-All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/russian.md)
+All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/languages/blob/main/russian.md)
+
+
+[<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)
+[<<back to main](https://github.com/nq4-net/entrance)
