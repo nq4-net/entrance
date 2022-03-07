@@ -4,7 +4,7 @@
 Our multinational slavic team will continue to grow, but already now we are translating into Russian, Ukrainian and Bulgarian.
 
 ### Ukranian
-All our translation to Ukranian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukranian.md)
+All our translation to Ukranian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Bulgarian
 All our translation to Bulgarian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
