@@ -19,4 +19,5 @@ All our translation to Bulgarian you can see [here](https://github.com/nq4-net/e
 
 
 [<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)
+
 [<<back to main](https://github.com/nq4-net/entrance)

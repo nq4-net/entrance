@@ -13,8 +13,8 @@
 
 
 ### Other languages:
-- [Ukrainian](https://github.com/nq4-net/entrance/languages/blob/main/ukrainian.md)
-- [Bulgarian](https://github.com/nq4-net/entrance/languages/blob/main/bulgarian.md)
+- [Ukrainian](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
+- [Bulgarian](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 
 All Russian text published [here](https://ru.nq4.net/)

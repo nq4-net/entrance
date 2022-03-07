@@ -12,8 +12,8 @@
 - [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)
 
 ### Other languages:
-- [Russian](https://github.com/nq4-net/entrance/languages/blob/main/russian.md)
-- [Bulgarian](https://github.com/nq4-net/entrance/languages/blob/main/bulgarian.md)
+- [Russian](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
+- [Bulgarian](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 All Ukranian text published [here](https://ua.nq4.net/)
 
