@@ -10,6 +10,9 @@
 - [Fetch.Ai for Ukrainian](https://t.me/FetchAiUkraine)
 - [Fetch.Ai Ukrainian Chat](https://t.me/FetchAiUkraineChat)
 
+### Russian
+- [Fetch.ai Russian](https://t.me/fetch_ai_russian)
+
 
 [<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)
 

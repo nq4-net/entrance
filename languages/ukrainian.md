@@ -3,6 +3,8 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Представляємо Surge:Kava Swap Edition](https://ua.nq4.net/KmcppG8PU3W)
+- [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
 - [Polkadot Decoded: Надішліть свою пропозицію для найбільшої події року в мережі Polkadot](https://ua.nq4.net/_6ZEQkvlXFq)
 - [Думаєте про ідеальний подарунок на День Святого Валентина?](https://ua.nq4.net/Ur2Cqce29p8)
 - [Представляємо приз для піонерів Polkadot!](https://ua.nq4.net/iEbLv0R_TiF)

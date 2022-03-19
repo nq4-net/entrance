@@ -16,6 +16,7 @@ All our communities contributions list [here](https://github.com/nq4-net/entranc
 
 ## Our contribution with translations to Kusama
 ### Ukrainian
+- [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
 - [Думаєте про ідеальний подарунок на День Святого Валентина?](https://ua.nq4.net/Ur2Cqce29p8)
 
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)

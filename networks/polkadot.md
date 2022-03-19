@@ -16,6 +16,7 @@ All our communities contributions list [here](https://github.com/nq4-net/entranc
 
 ## Our contribution with translations to Polkadot
 ### Ukrainian
+- [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
 - [Polkadot Decoded: Надішліть свою пропозицію для найбільшої події року в мережі Polkadot](https://ua.nq4.net/_6ZEQkvlXFq)
 - [Представляємо приз для піонерів Polkadot!](https://ua.nq4.net/iEbLv0R_TiF)
 
