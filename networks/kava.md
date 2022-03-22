@@ -4,9 +4,9 @@
 
 - We validate in [mainnet](https://www.mintscan.io/kava/validators/kavavaloper1a7xflafgxct35xhncmat33hp3v58kr3dfly48x)
 
-
-## Our contribution with translations to Kusama
+## Our contribution with translations to KAVA
 ### Ukrainian
+- [Зустрічайте піонерів #1](https://ua.nq4.net/fwO6g72PfVy)
 - [Представляємо Surge:Kava Swap Edition](https://ua.nq4.net/KmcppG8PU3W)
 
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
@@ -15,6 +15,9 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 ### Ukrainian
 - [KAVA for Ukrainian](https://t.me/KavaUkraine)
 - [KAVA Ukrainian Chat](https://t.me/KavaUkraineChat)
+
+### Russian
+- [Kava Platform Russian-Speaking Сommunity](https://t.me/KavaRussian)
 
 
 [<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)
