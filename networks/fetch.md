@@ -17,17 +17,6 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
 
-
-
-
-
-## Our contribution with translations to Kusama
-### Russian
-
-
-### Ukranian
-
-
 ## Communities and channels created, supported and moderated.
 ### Ukrainian
 - [Fetch.Ai for Ukrainian](https://t.me/FetchAiUkraine)
