@@ -3,6 +3,8 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Fetch.ai AMA Recap](https://ua.nq4.net/HyWO7Z5K8Xh)
+- [Fetch.ai оголошує про співпрацю з West Ham United](https://ua.nq4.net/H3nkkd1339C)
 - [Зустрічайте піонерів #1](https://ua.nq4.net/fwO6g72PfVy)
 - [Представляємо Surge:Kava Swap Edition](https://ua.nq4.net/KmcppG8PU3W)
 - [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
