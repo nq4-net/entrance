@@ -4,6 +4,9 @@
 
 - We validate in [mainnet](https://www.mintscan.io/fetchai/validators/fetchvaloper1u9zcl5rvwv653msdqcevl7s3z43ckz5rcc4lta)
 
+## Our contribution with translations to Kusama
+### Russian
+- [Fetch.ai объявляет о сотрудничестве с West Ham United](https://ru.nq4.net/yCp0DBND7kI)
 
 ## Communities and channels created, supported and moderated.
 ### Ukrainian

@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Fetch.ai объявляет о сотрудничестве с West Ham United](https://ru.nq4.net/yCp0DBND7kI)
 - [Polkadot Decoded: Отправьте свое предложение для крупнейшего события года в сети Polkadot](https://ru.nq4.net/p-vIeRlLHxO)
 - [Представляем приз для пионеров Polkadot!](https://ru.nq4.net/PDHMgDQMvFv)
 - [Думаете об идеальном подарке на День Святого Валентина?](https://ru.nq4.net/vRnA4V3cL7G)
