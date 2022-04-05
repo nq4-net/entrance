@@ -7,12 +7,14 @@
 
 ## Our contribution with translations to Fetch.Ai
 ### Ukrainian
+- [Другий MOBIX стейкдроп для холдерів токенів Fetch.ai](https://ua.nq4.net/lMyR3WucRb4)
 - [Fetch.ai оголошує про співпрацю з West Ham United](https://ua.nq4.net/H3nkkd1339C)
 - [Fetch.ai AMA Recap](https://ua.nq4.net/HyWO7Z5K8Xh)
 
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Russian
+- [Второй MOBIX стейкдроп для держателей токенов Fetch.ai](https://ru.nq4.net/D-bjOqQQ3xX)
 - [Fetch.ai объявляет о сотрудничестве с West Ham United](https://ru.nq4.net/yCp0DBND7kI)
 
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
