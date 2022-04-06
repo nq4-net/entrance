@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to Solana
 ### Ukrainian
+- [Фонд Solana з гордістю повідомляє про Solana Miami!](https://ua.nq4.net/667umxxwIcp)
 - [Дочірня компанія DeFi Technologies отримала схвалення листингу Solana ETP на Франкфуртській біржі](https://ua.nq4.net/N1UDiUxGsGb)
 - [Solana Labs запускає Solana Pay, платіжний протокол для цифрової комерції](https://ua.nq4.net/DqvwhBaCPsS)
 - [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)

@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Фонд Solana з гордістю повідомляє про Solana Miami!](https://ua.nq4.net/667umxxwIcp)
 - [Другий MOBIX стейкдроп для холдерів токенів Fetch.ai](https://ua.nq4.net/lMyR3WucRb4)
 - [Fetch.ai AMA Recap](https://ua.nq4.net/HyWO7Z5K8Xh)
 - [Fetch.ai оголошує про співпрацю з West Ham United](https://ua.nq4.net/H3nkkd1339C)
