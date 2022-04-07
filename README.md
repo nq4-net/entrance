@@ -41,7 +41,7 @@ In 22, we plan to expand the team and start educating people, introduce them to 
 - [Medium](https://blog.nq4.net)
 - [YouTube](https://www.youtube.com/channel/UCxf3QRE9wbjDPEF7XdqtHXw)
 - [LinkedIn](https://www.linkedin.com/company/nq4-net/)
-- [FaceBook](https://www.facebook.com/NQ4-101639349114420)
+- [FaceBook](https://www.facebook.com/NQ4.NET/)
 - [Reddit](https://www.reddit.com/r/NQ4/)
 
 <!-- CONTACT -->

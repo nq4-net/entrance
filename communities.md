@@ -31,12 +31,13 @@
 - [Kava Platform Russian-Speaking Сommunity](https://t.me/KavaRussian)
 
 ### English and International
-- [Discord](https://discord.gg/pmhmjT9c)
+- [Discord](https://discord.gg/MSjprtCqPA)
 - [Telegram Group](https://t.me/NQ4_NET_Chat)
 - [Telegram Announcements Channel](https://t.me/NQ4_NET_Announcements)
 - [Reddit](https://www.reddit.com/r/NQ4/)
 - [LinkedIn](https://www.linkedin.com/company/nq4-net/)
 - [Twitter](https://twitter.com/nq4_net)
-- [Facebook](https://www.facebook.com/NQ4-101639349114420)
+- [Facebook](https://www.facebook.com/NQ4.NET/)
+
 
 [<<back to main](https://github.com/nq4-net/entrance)
