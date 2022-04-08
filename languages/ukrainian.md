@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [CertiK досягає оцінки в 2 мільярди доларів за рахунок нового фінансування від Goldman Sachs та інших](https://ua.nq4.net/yu31UqhVMnu)
 - [KRAFTON, INC. ПІДПИСУЄ ДОВГОСТРОКОВУ СПІВРОБІТНІСТЬ З SOLANA LABS ДЛЯ ІГР ТА ПОСЛУГ НА БЛОКЧЕЙНУ](https://ua.nq4.net/TbCNsj1v6yX)
 - [Фонд Solana з гордістю повідомляє про Solana Miami!](https://ua.nq4.net/667umxxwIcp)
 - [Другий MOBIX стейкдроп для холдерів токенів Fetch.ai](https://ua.nq4.net/lMyR3WucRb4)
