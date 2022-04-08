@@ -46,6 +46,7 @@ In 22, we plan to expand the team and start educating people, introduce them to 
 
 <!-- CONTACT -->
 ## Contact
+Serhii - Discod (Serhii | NQ4.net#0020) - ceo@nq4.net
 
 Oleksandr Chub - [@huan_carlos](https://twitter.com/huan_carlos) - admin@nq4.net
 
