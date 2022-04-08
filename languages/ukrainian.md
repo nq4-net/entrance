@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [KRAFTON, INC. ПІДПИСУЄ ДОВГОСТРОКОВУ СПІВРОБІТНІСТЬ З SOLANA LABS ДЛЯ ІГР ТА ПОСЛУГ НА БЛОКЧЕЙНУ](https://ua.nq4.net/TbCNsj1v6yX)
 - [Фонд Solana з гордістю повідомляє про Solana Miami!](https://ua.nq4.net/667umxxwIcp)
 - [Другий MOBIX стейкдроп для холдерів токенів Fetch.ai](https://ua.nq4.net/lMyR3WucRb4)
 - [Fetch.ai AMA Recap](https://ua.nq4.net/HyWO7Z5K8Xh)

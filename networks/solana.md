@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to Solana
 ### Ukrainian
+- [KRAFTON, INC. ПІДПИСУЄ ДОВГОСТРОКОВУ СПІВРОБІТНІСТЬ З SOLANA LABS ДЛЯ ІГР ТА ПОСЛУГ НА БЛОКЧЕЙНУ](https://ua.nq4.net/TbCNsj1v6yX)
 - [Фонд Solana з гордістю повідомляє про Solana Miami!](https://ua.nq4.net/667umxxwIcp)
 - [Дочірня компанія DeFi Technologies отримала схвалення листингу Solana ETP на Франкфуртській біржі](https://ua.nq4.net/N1UDiUxGsGb)
 - [Solana Labs запускає Solana Pay, платіжний протокол для цифрової комерції](https://ua.nq4.net/DqvwhBaCPsS)
