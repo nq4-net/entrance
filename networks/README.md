@@ -9,7 +9,7 @@
 
 ## Active Testnets
 - [Aptos](https://aptoslabs.com/)
-- [Archway](https://www.archway.io/)
+- [Archway](https://github.com/nq4-net/entrance/blob/main/networks/archway.md)
 - [Starknet](https://starkware.co/)
 - [Masa Finance](https://masa.finance/)
 - [Casper](https://github.com/nq4-net/entrance/blob/main/networks/casper.md)

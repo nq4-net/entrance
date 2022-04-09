@@ -3,7 +3,7 @@
 ## Our technical contributions to IronFish
 
 - We part of [testnet](https://testnet.ironfish.network/users/2133)
-
+- - Secondary blockexplorer [IronFishnet](https://www.ironfishnet.com/graffiti/PlusUA)
 
 [<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)
 

@@ -4,16 +4,6 @@
 
 - We validate in [mainnet](https://kusama.polkastats.io/validator/HbnDhMBcrVe9jFgHQT96LKvuEQgxArFm9dkdvxE2kSaqroS)
 
-## Communities and channels created, supported and moderated.
-### Ukrainian
-- [Kusama for Ukrainian](https://t.me/KusamaUkraine)
-- [Kusama Ukrainian Chat](https://t.me/KusamaUkraineChat)
-### Russian
-- [Kusama for Russian](https://t.me/KusamaRussian)
-- [Kusama for Russian Chat](https://t.me/KusamaRussianChat)
-
-All our communities contributions list [here](https://github.com/nq4-net/entrance/blob/main/communities.md)
-
 ## Our contribution with translations to Kusama
 ### Ukrainian
 - [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
@@ -25,6 +15,16 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 - [Думаете об идеальном подарке на День Святого Валентина?](https://ru.nq4.net/vRnA4V3cL7G)
 
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
+
+## Communities and channels created, supported and moderated.
+### Ukrainian
+- [Kusama for Ukrainian](https://t.me/KusamaUkraine)
+- [Kusama Ukrainian Chat](https://t.me/KusamaUkraineChat)
+### Russian
+- [Kusama for Russian](https://t.me/KusamaRussian)
+- [Kusama for Russian Chat](https://t.me/KusamaRussianChat)
+
+All our communities contributions list [here](https://github.com/nq4-net/entrance/blob/main/communities.md)
 
 
 [<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)

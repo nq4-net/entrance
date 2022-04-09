@@ -4,16 +4,6 @@
 
 - We validate in [mainnet](https://polkadot.polkastats.io/validator/15VKVoQCwTcJAWyW326KRVKguMJzTVesbdDzFBYAcK3BVjUv)
 
-## Communities and channels created, supported and moderated.
-### Ukrainian
-- [Polkadot for Ukrainian](https://t.me/PolkadotforUkraine)
-- [Polkadot Ukrainian Chat](https://t.me/PolkadotChatUkraine)
-### Russian
-- [Polkadot for Russian](https://t.me/PolkadotforRussian)
-- [Polkadot for Russian Chat](https://t.me/PolkadotRussianChat)
-
-All our communities contributions list [here](https://github.com/nq4-net/entrance/blob/main/communities.md)
-
 ## Our contribution with translations to Polkadot
 ### Ukrainian
 - [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
@@ -27,6 +17,16 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 - [Представляем приз для пионеров Polkadot!](https://ru.nq4.net/PDHMgDQMvFv)
 
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
+
+## Communities and channels created, supported and moderated.
+### Ukrainian
+- [Polkadot for Ukrainian](https://t.me/PolkadotforUkraine)
+- [Polkadot Ukrainian Chat](https://t.me/PolkadotChatUkraine)
+### Russian
+- [Polkadot for Russian](https://t.me/PolkadotforRussian)
+- [Polkadot for Russian Chat](https://t.me/PolkadotRussianChat)
+
+All our communities contributions list [here](https://github.com/nq4-net/entrance/blob/main/communities.md)
 
 
 
