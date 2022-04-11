@@ -7,6 +7,7 @@
 
 ## Our contribution with translations to Fetch.Ai
 ### Ukrainian
+- [ZoidPay співпрацює з Fetch.ai: купуйте будь-що з будь-якого місця за допомогою $FET](https://ua.nq4.net/WDaeCWgKA4B)
 - [Другий MOBIX стейкдроп для холдерів токенів Fetch.ai](https://ua.nq4.net/lMyR3WucRb4)
 - [Fetch.ai оголошує про співпрацю з West Ham United](https://ua.nq4.net/H3nkkd1339C)
 - [Fetch.ai AMA Recap](https://ua.nq4.net/HyWO7Z5K8Xh)
