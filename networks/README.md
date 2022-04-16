@@ -9,7 +9,6 @@
 
 ## Active Testnets
 - [Aptos](https://aptoslabs.com/)
-- [Archway](https://github.com/nq4-net/entrance/blob/main/networks/archway.md)
 - [Starknet](https://starkware.co/)
 - [Masa Finance](https://masa.finance/)
 - [Casper](https://github.com/nq4-net/entrance/blob/main/networks/casper.md)
@@ -40,6 +39,7 @@
 - [Forta](https://forta.org/)
 
 ## Finished Activity
+- [Archway](https://github.com/nq4-net/entrance/blob/main/networks/archway.md)
 - [Hopr](https://github.com/nq4-net/entrance/blob/main/networks/hopr.md)
 - [Streamr](https://github.com/nq4-net/entrance/blob/main/networks/streamr.md)
 - [Vega](https://github.com/nq4-net/entrance/blob/main/networks/vega.md)
