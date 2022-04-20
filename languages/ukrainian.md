@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Анонс розіграшу Kava10](https://ua.nq4.net/lq5HTZUX56W)
 - [Представляємо Osmosis Frontier](https://ua.nq4.net/0DN9mWSv4Vy)
 - [ZoidPay співпрацює з Fetch.ai: купуйте будь-що з будь-якого місця за допомогою $FET](https://ua.nq4.net/WDaeCWgKA4B)
 - [CertiK досягає оцінки в 2 мільярди доларів за рахунок нового фінансування від Goldman Sachs та інших](https://ua.nq4.net/yu31UqhVMnu)

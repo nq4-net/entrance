@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to KAVA
 ### Ukrainian
+- [Анонс розіграшу Kava10](https://ua.nq4.net/lq5HTZUX56W)
 - [Зустрічайте піонерів #1](https://ua.nq4.net/fwO6g72PfVy)
 - [Представляємо Surge:Kava Swap Edition](https://ua.nq4.net/KmcppG8PU3W)
 
