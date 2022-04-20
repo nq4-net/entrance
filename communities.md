@@ -19,6 +19,7 @@
 - [Polkadot Ukrainian Chat](https://t.me/PolkadotChatUkraine)
 - [ODIN Protocol for Ukrainian](https://t.me/OdinProtocolUkraine)
 - [ODIN Protocol Ukrainian Chat](https://t.me/OdinProtocolUkraineChat)
+- [ODIN Protocol Ukrainian Channel in Discord](https://discord.com/channels/750014234112557197/964120166780796929)
 
 ### Russian
 - [Fetch.ai Russian](https://t.me/fetch_ai_russian)
