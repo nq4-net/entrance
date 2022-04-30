@@ -3,7 +3,7 @@
 - [BAND protocol](https://github.com/nq4-net/entrance/blob/main/networks/band.md)
 - [ODIN protocol](https://github.com/nq4-net/entrance/blob/main/networks/odin.md)
 - [Fetch](https://github.com/nq4-net/entrance/blob/main/networks/fetch.md)
-- [KAVA](https://github.com/nq4-net/entrance/blob/main/networks/kava.md)
+
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/networks/kusama.md)
 
 
@@ -39,6 +39,7 @@
 - [Forta](https://forta.org/)
 
 ## Finished Activity
+- [KAVA](https://github.com/nq4-net/entrance/blob/main/networks/kava.md)
 - [Archway](https://github.com/nq4-net/entrance/blob/main/networks/archway.md)
 - [Hopr](https://github.com/nq4-net/entrance/blob/main/networks/hopr.md)
 - [Streamr](https://github.com/nq4-net/entrance/blob/main/networks/streamr.md)

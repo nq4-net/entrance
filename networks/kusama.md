@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to Kusama
 ### Ukrainian
+- [До вашої уваги Square One: ваша відправна точка для створення на Substrate, Polkadot і Kusama](https://ua.nq4.net/ICkmPG_f5P4)
 - [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
 - [Думаєте про ідеальний подарунок на День Святого Валентина?](https://ua.nq4.net/Ur2Cqce29p8)
 

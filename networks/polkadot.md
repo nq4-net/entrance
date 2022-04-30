@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to Polkadot
 ### Ukrainian
+- [До вашої уваги Square One: ваша відправна точка для створення на Substrate, Polkadot і Kusama](https://ua.nq4.net/ICkmPG_f5P4)
 - [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
 - [Polkadot Decoded: Надішліть свою пропозицію для найбільшої події року в мережі Polkadot](https://ua.nq4.net/_6ZEQkvlXFq)
 - [Представляємо приз для піонерів Polkadot!](https://ua.nq4.net/iEbLv0R_TiF)

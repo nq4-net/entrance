@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [До вашої уваги Square One: ваша відправна точка для створення на Substrate, Polkadot і Kusama](https://ua.nq4.net/ICkmPG_f5P4)
 - [Анонс розіграшу Kava10](https://ua.nq4.net/lq5HTZUX56W)
 - [Представляємо Osmosis Frontier](https://ua.nq4.net/0DN9mWSv4Vy)
 - [ZoidPay співпрацює з Fetch.ai: купуйте будь-що з будь-якого місця за допомогою $FET](https://ua.nq4.net/WDaeCWgKA4B)
