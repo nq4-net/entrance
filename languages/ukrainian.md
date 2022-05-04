@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Програма Iron Fish Ambassador](https://ua.nq4.net/XSRSJx3PfUI)
 - [До вашої уваги Square One: ваша відправна точка для створення на Substrate, Polkadot і Kusama](https://ua.nq4.net/ICkmPG_f5P4)
 - [Анонс розіграшу Kava10](https://ua.nq4.net/lq5HTZUX56W)
 - [Представляємо Osmosis Frontier](https://ua.nq4.net/0DN9mWSv4Vy)

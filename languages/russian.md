@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Программа Iron Fish Ambassador](https://ru.nq4.net/1kbf4sONInJ)
 - [Второй MOBIX стейкдроп для держателей токенов Fetch.ai](https://ru.nq4.net/D-bjOqQQ3xX)
 - [Fetch.ai объявляет о сотрудничестве с West Ham United](https://ru.nq4.net/yCp0DBND7kI)
 - [Polkadot Decoded: Отправьте свое предложение для крупнейшего события года в сети Polkadot](https://ru.nq4.net/p-vIeRlLHxO)
