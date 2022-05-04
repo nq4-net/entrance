@@ -8,7 +8,7 @@
 - [Представляємо Osmosis Frontier](https://ua.nq4.net/0DN9mWSv4Vy)
 - [ZoidPay співпрацює з Fetch.ai: купуйте будь-що з будь-якого місця за допомогою $FET](https://ua.nq4.net/WDaeCWgKA4B)
 - [CertiK досягає оцінки в 2 мільярди доларів за рахунок нового фінансування від Goldman Sachs та інших](https://ua.nq4.net/yu31UqhVMnu)
-- [KRAFTON, INC. ПІДПИСУЄ ДОВГОСТРОКОВУ СПІВРОБІТНІСТЬ З SOLANA LABS ДЛЯ ІГР ТА ПОСЛУГ НА БЛОКЧЕЙНУ](https://ua.nq4.net/TbCNsj1v6yX)
+- [Krafton.Inc Підписує довгострокову співробітність з Solana Labs для ігр та послуг на блокчейн](https://ua.nq4.net/TbCNsj1v6yX)
 - [Фонд Solana з гордістю повідомляє про Solana Miami!](https://ua.nq4.net/667umxxwIcp)
 - [Другий MOBIX стейкдроп для холдерів токенів Fetch.ai](https://ua.nq4.net/lMyR3WucRb4)
 - [Fetch.ai AMA Recap](https://ua.nq4.net/HyWO7Z5K8Xh)
