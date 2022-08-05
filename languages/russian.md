@@ -3,6 +3,8 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Blockchain AI Spaces](https://ru.nq4.net/jSH3O4EqSyt)
+- [Blockchain AI Spaces](https://ru.nq4.net/qqQr-2QVUYU)
 - [Обновление Band Community](https://ru.nq4.net/cSj_OplKBfy)
 - [Программа Iron Fish Ambassador](https://ru.nq4.net/1kbf4sONInJ)
 - [Второй MOBIX стейкдроп для держателей токенов Fetch.ai](https://ru.nq4.net/D-bjOqQQ3xX)
@@ -18,7 +20,7 @@
 
 ### Other languages:
 - [Ukrainian](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
-- [Bulgarian](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
+- [Portuguese](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 
 
 All Russian text published [here](https://ru.nq4.net/)

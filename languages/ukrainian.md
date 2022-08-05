@@ -3,6 +3,8 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Blockchain AI Spaces](https://ua.nq4.net/bwfyDl_2IHV)
+- [Блокчейн AI Spaces](https://ua.nq4.net/vcz9ucQregR)
 - [Оновлення Band Community](https://ua.nq4.net/EPRiEKProHZ)
 - [Програма Iron Fish Ambassador](https://ua.nq4.net/XSRSJx3PfUI)
 - [До вашої уваги Square One: ваша відправна точка для створення на Substrate, Polkadot і Kusama](https://ua.nq4.net/ICkmPG_f5P4)
@@ -27,8 +29,8 @@
 - [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)
 
 ### Other languages:
+- [Portuguese](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 - [Russian](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
-- [Bulgarian](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 All Ukranian text published [here](https://ua.nq4.net/)
 
