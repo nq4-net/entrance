@@ -17,6 +17,8 @@
 - [Minima](https://minima.global/)
 - [Obol Network](https://obol.tech/)
 - [Transformers](https://www.tfsc.io/)
+- [Subspace](https://subspace.network/)
+
 
 ## Genesis validator, but not in active set:
 - [OmniFlix](https://github.com/nq4-net/entrance/blob/main/networks/omniflix.md)
@@ -29,6 +31,7 @@
 
 ## Active Devnets
 - [Celestia](https://github.com/nq4-net/entrance/blob/main/networks/celestia.md)
+- [SUI](https://sui.io/)
 
 ## Other activity
 - [SubQuery](https://subquery.network/)
