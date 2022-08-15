@@ -9,7 +9,7 @@
 
 ## Active Testnets
 - [Starknet](https://starkware.co/)
-- [Masa Finance](https://masa.finance/)
+- [Masa Finance](https://github.com/nq4-net/entrance/blob/main/networks/masa.md)
 - [Casper](https://github.com/nq4-net/entrance/blob/main/networks/casper.md)
 - [Massa](https://github.com/nq4-net/entrance/blob/main/networks/massa.md)
 - [Solana](https://github.com/nq4-net/entrance/blob/main/networks/solana.md)	
