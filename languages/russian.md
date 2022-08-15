@@ -4,6 +4,7 @@
 
 ### Russian
 - [Фонд Kava](https://ru.nq4.net/XGoFIt7_JaR)
+- [Установите минимальную комиссию валидатора на 5% · Обсуждение №10](https://ru.nq4.net/LcMjwPyMgqK)
 - [Blockchain AI Spaces](https://ru.nq4.net/jSH3O4EqSyt)
 - [Blockchain AI Spaces](https://ru.nq4.net/qqQr-2QVUYU)
 - [Обновление Band Community](https://ru.nq4.net/cSj_OplKBfy)

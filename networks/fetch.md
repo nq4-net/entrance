@@ -7,6 +7,7 @@
 
 ## Our contribution with translations to Fetch.Ai
 ### Ukrainian
+- [Встановлюйте мінімальну комісію валідатора на 5% · Обговорення №10](https://ua.nq4.net/TmmIHmRLIz_)
 - [Blockchain AI Spaces](https://ua.nq4.net/bwfyDl_2IHV)
 - [Блокчейн AI Spaces](https://ua.nq4.net/vcz9ucQregR)
 - [ZoidPay співпрацює з Fetch.ai: купуйте будь-що з будь-якого місця за допомогою $FET](https://ua.nq4.net/WDaeCWgKA4B)
@@ -17,12 +18,14 @@
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Portuguese
--[Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
--[Blockchain AI Spaces](https://pt.nq4.net/cZzYVbAth-j)
+- [Defina sua taxa mínima de validação para 5% Talk #10](https://pt.nq4.net/X8XPIxMcNSa)
+- [Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
+- [Blockchain AI Spaces](https://pt.nq4.net/cZzYVbAth-j)
 
 All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 
 ### Russian
+- [Установите минимальную комиссию валидатора на 5% · Обсуждение №10](https://ru.nq4.net/LcMjwPyMgqK)
 - [Blockchain AI Spaces](https://ru.nq4.net/jSH3O4EqSyt)
 - [Blockchain AI Spaces](https://ru.nq4.net/qqQr-2QVUYU)
 - [Второй MOBIX стейкдроп для держателей токенов Fetch.ai](https://ru.nq4.net/D-bjOqQQ3xX)

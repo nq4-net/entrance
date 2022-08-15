@@ -4,6 +4,7 @@
 
 ### Ukranian
 - [Фонд Kava](https://ua.nq4.net/7oeFlQL4oca#7EWb)
+- [Встановлюйте мінімальну комісію валідатора на 5% · Обговорення №10](https://ua.nq4.net/TmmIHmRLIz_)
 - [Blockchain AI Spaces](https://ua.nq4.net/bwfyDl_2IHV)
 - [Блокчейн AI Spaces](https://ua.nq4.net/vcz9ucQregR)
 - [Оновлення Band Community](https://ua.nq4.net/EPRiEKProHZ)

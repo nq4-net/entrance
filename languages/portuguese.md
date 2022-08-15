@@ -4,6 +4,7 @@
 
 ### Portuguese
 - [Fundação Kava](https://pt.nq4.net/iq5aGflpf2c)
+- [Defina sua taxa mínima de validação para 5% Talk #10](https://pt.nq4.net/X8XPIxMcNSa)
 - [Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
 - [Blockchain AI Spaces](https://pt.nq4.net/cZzYVbAth-j)
 
