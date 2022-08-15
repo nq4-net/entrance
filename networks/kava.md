@@ -6,12 +6,27 @@
 
 ## Our contribution with translations to KAVA
 ### Ukrainian
+- [Фонд Kava](https://ua.nq4.net/7oeFlQL4oca#7EWb)
 - [Анонс розіграшу Kava10](https://ua.nq4.net/lq5HTZUX56W)
 - [Зустрічайте піонерів #1](https://ua.nq4.net/fwO6g72PfVy)
 - [Представляємо Surge:Kava Swap Edition](https://ua.nq4.net/KmcppG8PU3W)
-- [Фонд Kava] (https://ua.nq4.net/7oeFlQL4oca#7EWb)
+
 
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
+
+
+### Portuguese
+- [Fundação Kava](https://pt.nq4.net/iq5aGflpf2c)
+
+
+All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
+
+### Russian
+- [Фонд Kava](https://ru.nq4.net/XGoFIt7_JaR)
+
+
+All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
+
 
 ## Communities and channels created, supported and moderated.
 ### Ukrainian

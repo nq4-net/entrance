@@ -3,8 +3,9 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
--[Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
--[Blockchain AI Spaces](https://pt.nq4.net/cZzYVbAth-j)
+- [Fundação Kava](https://pt.nq4.net/iq5aGflpf2c)
+- [Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
+- [Blockchain AI Spaces](https://pt.nq4.net/cZzYVbAth-j)
 
 ### Other languages:
 - [Ukrainian](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)

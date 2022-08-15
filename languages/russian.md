@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Фонд Kava](https://ru.nq4.net/XGoFIt7_JaR)
 - [Blockchain AI Spaces](https://ru.nq4.net/jSH3O4EqSyt)
 - [Blockchain AI Spaces](https://ru.nq4.net/qqQr-2QVUYU)
 - [Обновление Band Community](https://ru.nq4.net/cSj_OplKBfy)
@@ -21,6 +22,7 @@
 ### Other languages:
 - [Ukrainian](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 - [Portuguese](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
+- [Bulgarian](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 
 All Russian text published [here](https://ru.nq4.net/)
