@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Технічні оновлення ODIN за останні два тижні!](https://blog.nq4.net/here-are-the-odin-tech-updates-for-the-past-two-weeks-ef7a6c9b7f0c)
 - [Фонд Kava](https://ua.nq4.net/7oeFlQL4oca#7EWb)
 - [Встановлюйте мінімальну комісію валідатора на 5% · Обговорення №10](https://ua.nq4.net/TmmIHmRLIz_)
 - [Blockchain AI Spaces](https://ua.nq4.net/bwfyDl_2IHV)
