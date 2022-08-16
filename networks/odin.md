@@ -4,6 +4,17 @@
 
 - We validate in [mainnet](https://odin-scan.web.app/validators/odinvaloper14da0ag6pcf7hlgh54unm8udcm8flctna3djra7)
 
+## Our contribution with translations to ODIN protocol
+### Ukrainian
+- [Технічні оновлення ODIN за останні два тижні](https://ua.nq4.net/RcoVaQHqRPT)
+
+
+### Portuguese
+- [Atualizações técnicas do ODIN nas últimas duas semanas](https://pt.nq4.net/xpALfCzg4sM)
+
+
+### Russian
+- [Технические обновления ODIN за последние две недели](https://ru.nq4.net/OtcHvOjT8e8)
 
 ## Communities and channels created, supported and moderated.
 ### Ukrainian
