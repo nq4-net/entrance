@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
+- [Atualizações técnicas do ODIN nas últimas duas semanas](https://pt.nq4.net/xpALfCzg4sM)
 - [Fundação Kava](https://pt.nq4.net/iq5aGflpf2c)
 - [Defina sua taxa mínima de validação para 5% Talk #10](https://pt.nq4.net/X8XPIxMcNSa)
 - [Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
