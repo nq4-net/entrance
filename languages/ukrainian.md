@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Як насолоджуватися STARFLEIT](https://ua.nq4.net/PKCcamR2kOe)
 - [Технічні оновлення ODIN за останні два тижні!](https://ua.nq4.net/RcoVaQHqRPT)
 - [Фонд Kava](https://ua.nq4.net/7oeFlQL4oca#7EWb)
 - [Встановлюйте мінімальну комісію валідатора на 5% · Обговорення №10](https://ua.nq4.net/TmmIHmRLIz_)
