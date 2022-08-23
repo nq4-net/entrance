@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to Polkadot
 ### Ukrainian
+- [Web3 Talks: Розблокування справжньої крос-ланцюжкової взаємодії](https://ua.nq4.net/uxtopZb9jpX)
 - [До вашої уваги Square One: ваша відправна точка для створення на Substrate, Polkadot і Kusama](https://ua.nq4.net/ICkmPG_f5P4)
 - [Гевін Вуд – текстова версія інтерв’ю на конференції CfC St.Mortiz](https://ua.nq4.net/2wWjhxMj_iv)
 - [Polkadot Decoded: Надішліть свою пропозицію для найбільшої події року в мережі Polkadot](https://ua.nq4.net/_6ZEQkvlXFq)
@@ -14,8 +15,13 @@
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Russian
+- [Web3 Talks: Разблокирование настоящего кросс-цепочного взаимодействия](https://ru.nq4.net/_lEQjWY25S4)
 - [Polkadot Decoded: Отправьте свое предложение для крупнейшего события года в сети Polkadot](https://ru.nq4.net/p-vIeRlLHxO)
 - [Представляем приз для пионеров Polkadot!](https://ru.nq4.net/PDHMgDQMvFv)
+
+
+### Portuguese
+- [Web3 Talks: Desbloqueando a verdadeira interação entre cadeias](https://pt.nq4.net/ZOTyfGahBpc)
 
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
 
