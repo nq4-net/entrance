@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Web3 Talks: Разблокирование настоящего кросс-цепочного взаимодействия](https://ru.nq4.net/_lEQjWY25S4)
 - [Как наслаждаться STARFLEIT](https://ru.nq4.net/JsVVXUAZ186)
 - [Технические обновления ODIN за последние две недели](https://ru.nq4.net/OtcHvOjT8e8)
 - [Фонд Kava](https://ru.nq4.net/XGoFIt7_JaR)
