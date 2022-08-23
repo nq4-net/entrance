@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Web3 Talks: Розблокування справжньої крос-ланцюжкової взаємодії](https://ua.nq4.net/uxtopZb9jpX)
 - [Як насолоджуватися STARFLEIT](https://ua.nq4.net/PKCcamR2kOe)
 - [Технічні оновлення ODIN за останні два тижні!](https://ua.nq4.net/RcoVaQHqRPT)
 - [Фонд Kava](https://ua.nq4.net/7oeFlQL4oca#7EWb)
