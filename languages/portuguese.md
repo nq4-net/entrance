@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
+- [Proposta de Paracadeias de Bem Comum](https://pt.nq4.net/55aVBt-5inH)
 - [Web3 Talks: Desbloqueando a verdadeira interação entre cadeias](https://pt.nq4.net/ZOTyfGahBpc)
 - [Como aproveitar STARFLEIT](https://pt.nq4.net/oYGasiLEEYr)
 - [Atualizações técnicas do ODIN nas últimas duas semanas](https://pt.nq4.net/xpALfCzg4sM)
