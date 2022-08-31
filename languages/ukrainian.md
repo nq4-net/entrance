@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Sub0, конференція розробників Polkadot, відбудеться в Лісабоні в листопаді](https://ua.nq4.net/PZT3K-IX7yH)
 - [Пропозиція для парачейнів Common Good](https://ua.nq4.net/GQsFnxCIkZ_)
 - [Web3 Talks: Розблокування справжньої крос-ланцюжкової взаємодії](https://ua.nq4.net/uxtopZb9jpX)
 - [Як насолоджуватися STARFLEIT](https://ua.nq4.net/PKCcamR2kOe)
