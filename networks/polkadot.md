@@ -21,6 +21,8 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 - [Polkadot Decoded: Отправьте свое предложение для крупнейшего события года в сети Polkadot](https://ru.nq4.net/p-vIeRlLHxO)
 - [Представляем приз для пионеров Polkadot!](https://ru.nq4.net/PDHMgDQMvFv)
 
+### Bulgarian
+- [Sub0, конференцията за разработчици Polkadot, идва в Лисабон през ноември](https://bg.nq4.net/rIDKcyHFQbJ)
 
 ### Portuguese
 - [Proposta de Paracadeias de Bem Comum](https://pt.nq4.net/55aVBt-5inH)

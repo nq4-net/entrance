@@ -24,26 +24,30 @@
 - [OmniFlix](https://github.com/nq4-net/entrance/blob/main/networks/omniflix.md)
 - [Ki chain](https://github.com/nq4-net/entrance/blob/main/networks/kichain.md)
 
+
 ## Early testers campaign:
 - [Euler](https://www.euler.finance/)
 - [Aleph Zero](https://alephzero.org/)
 - [Koii](https://github.com/nq4-net/entrance/blob/main/networks/koii.md)
 
+
 ## Active Devnets
 - [Celestia](https://github.com/nq4-net/entrance/blob/main/networks/celestia.md)
-- [SUI](https://sui.io/)
+
 
 ## Other activity
 - [SubQuery](https://subquery.network/)
 - [Forta](https://forta.org/)
 
+
 ## Finished Activity
+- [SUI](https://sui.io/)
+- [Aptos](https://aptoslabs.com/)
 - [KYVE](https://www.kyve.network/)
 - [SSV](https://github.com/nq4-net/entrance/blob/main/networks/ssv.md)
 - [Nym](https://github.com/nq4-net/entrance/blob/main/networks/nym.md)
 - [Zeitgeist](https://github.com/nq4-net/entrance/blob/main/networks/zeitgeist.md)
 - [Bit.Country](https://github.com/nq4-net/entrance/blob/main/networks/bitcountry.md)
-- [Aptos](https://aptoslabs.com/)
 - [Archway](https://github.com/nq4-net/entrance/blob/main/networks/archway.md)
 - [Hopr](https://github.com/nq4-net/entrance/blob/main/networks/hopr.md)
 - [Streamr](https://github.com/nq4-net/entrance/blob/main/networks/streamr.md)

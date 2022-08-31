@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Bulgarian
+- [Sub0, конференцията за разработчици Polkadot, идва в Лисабон през ноември](https://bg.nq4.net/rIDKcyHFQbJ)
 - [Blockchain AI Spaces](https://bg.nq4.net/80z7QmfW76Z)
 - [За програмата за посланици от BIT.Country](https://teletype.in/@plusua/zN_XYGhQ2tx)
 
