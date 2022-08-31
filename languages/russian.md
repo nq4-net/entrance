@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Sub0, конференция разработчиков Polkadot, пройдет в ноябре в Лиссабоне](https://ru.nq4.net/RmnSMjgEM43)
 - [Предложение для парачейнов общего блага](https://ru.nq4.net/g3Z8Ziz8mzI)
 - [Web3 Talks: Разблокирование настоящего кросс-цепочного взаимодействия](https://ru.nq4.net/_lEQjWY25S4)
 - [Как наслаждаться STARFLEIT](https://ru.nq4.net/JsVVXUAZ186)
