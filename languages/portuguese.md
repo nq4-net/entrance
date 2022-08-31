@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
+- [Sub0, a Polkadot Developer Conference, chega a Lisboa em novembro](https://pt.nq4.net/Ni5UFqc96Fd)
 - [Proposta de Paracadeias de Bem Comum](https://pt.nq4.net/55aVBt-5inH)
 - [Web3 Talks: Desbloqueando a verdadeira interação entre cadeias](https://pt.nq4.net/ZOTyfGahBpc)
 - [Como aproveitar STARFLEIT](https://pt.nq4.net/oYGasiLEEYr)
