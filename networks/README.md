@@ -24,7 +24,6 @@
 - [OmniFlix](https://github.com/nq4-net/entrance/blob/main/networks/omniflix.md)
 - [Ki chain](https://github.com/nq4-net/entrance/blob/main/networks/kichain.md)
 
-
 ## Early testers campaign:
 - [Euler](https://www.euler.finance/)
 - [Aleph Zero](https://alephzero.org/)
@@ -33,11 +32,13 @@
 
 ## Active Devnets
 - [Celestia](https://github.com/nq4-net/entrance/blob/main/networks/celestia.md)
+- [Zeeka Network](https://zeeka.io/)
 
 
 ## Other activity
 - [SubQuery](https://subquery.network/)
 - [Forta](https://forta.org/)
+- [Haqq](https://haqq.network/)
 
 
 ## Finished Activity
