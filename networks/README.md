@@ -23,6 +23,7 @@
 ## Genesis validator, but not in active set:
 - [OmniFlix](https://github.com/nq4-net/entrance/blob/main/networks/omniflix.md)
 - [Ki chain](https://github.com/nq4-net/entrance/blob/main/networks/kichain.md)
+- [Haqq](https://github.com/nq4-net/entrance/blob/main/networks/haqq.md)
 
 ## Early testers campaign:
 - [Euler](https://www.euler.finance/)
@@ -38,7 +39,7 @@
 ## Other activity
 - [SubQuery](https://subquery.network/)
 - [Forta](https://forta.org/)
-- [Haqq](https://haqq.network/)
+
 
 
 ## Finished Activity
