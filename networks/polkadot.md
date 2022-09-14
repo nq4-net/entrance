@@ -23,15 +23,19 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 - [Polkadot Decoded: Отправьте свое предложение для крупнейшего события года в сети Polkadot](https://ru.nq4.net/p-vIeRlLHxO)
 - [Представляем приз для пионеров Polkadot!](https://ru.nq4.net/PDHMgDQMvFv)
 
+All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
+
 ### Bulgarian
 - [Sub0, конференцията за разработчици Polkadot, идва в Лисабон през ноември](https://bg.nq4.net/rIDKcyHFQbJ)
+
+All our translation to Bulgarian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 ### Portuguese
 - [Sub0, a Polkadot Developer Conference, chega a Lisboa em novembro](https://pt.nq4.net/Ni5UFqc96Fd)
 - [Proposta de Paracadeias de Bem Comum](https://pt.nq4.net/55aVBt-5inH)
 - [Web3 Talks: Desbloqueando a verdadeira interação entre cadeias](https://pt.nq4.net/ZOTyfGahBpc)
 
-All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
+All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 
 ## Communities and channels created, supported and moderated.
 ### Ukrainian

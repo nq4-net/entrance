@@ -15,6 +15,12 @@
 
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
+### Bulgarian
+- [Curve Finance стартира на Kava](https://bg.nq4.net/5VbXJuRwswz)
+- [Sub0, конференцията за разработчици Polkadot, идва в Лисабон през ноември](https://bg.nq4.net/rIDKcyHFQbJ)
+
+
+All our translation to Bulgarian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 ### Portuguese
 - [Curve Finance Launches on Kava](https://pt.nq4.net/QQ4yZ8JQQcA)
