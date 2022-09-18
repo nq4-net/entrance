@@ -24,6 +24,7 @@
 - [OmniFlix](https://github.com/nq4-net/entrance/blob/main/networks/omniflix.md)
 - [Ki chain](https://github.com/nq4-net/entrance/blob/main/networks/kichain.md)
 - [Haqq](https://github.com/nq4-net/entrance/blob/main/networks/haqq.md)
+- [Archway](https://github.com/nq4-net/entrance/blob/main/networks/archway.md)
 
 ## Early testers campaign:
 - [Euler](https://www.euler.finance/)
@@ -50,7 +51,7 @@
 - [Nym](https://github.com/nq4-net/entrance/blob/main/networks/nym.md)
 - [Zeitgeist](https://github.com/nq4-net/entrance/blob/main/networks/zeitgeist.md)
 - [Bit.Country](https://github.com/nq4-net/entrance/blob/main/networks/bitcountry.md)
-- [Archway](https://github.com/nq4-net/entrance/blob/main/networks/archway.md)
+
 - [Hopr](https://github.com/nq4-net/entrance/blob/main/networks/hopr.md)
 - [Streamr](https://github.com/nq4-net/entrance/blob/main/networks/streamr.md)
 - [Vega](https://github.com/nq4-net/entrance/blob/main/networks/vega.md)
