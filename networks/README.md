@@ -6,6 +6,7 @@
 - [KAVA](https://github.com/nq4-net/entrance/blob/main/networks/kava.md)
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/networks/kusama.md)
 - [Meme Network](https://github.com/nq4-net/entrance/blob/main/networks/meme.md)
+- [Chihuahua Chain](https://github.com/nq4-net/entrance/blob/main/networks/chihuahua.md)
 
 
 ## Active Testnets
