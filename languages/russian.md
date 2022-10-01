@@ -24,6 +24,7 @@
 - [Solana Labs запускает Solana Pay, платежный протокол для цифровой коммерции](https://ru.nq4.net/MpYVDvNyquS)
 - [Представляем мировое турне Solana Hacker House](https://ru.nq4.net/Gdr-VMxpiF1)
 - [Про программу амбассадоров от BIT.Country](https://teletype.in/@plusua/_zc3YEyoZ37)
+- [Polkadot DevCamp Intake #2](https://medium.com/@smayl1337/polkadot-devcamp-intake-2-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9-427c8f36a838)
 
 
 ### Other languages:
