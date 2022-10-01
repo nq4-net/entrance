@@ -50,7 +50,7 @@ Serhii - Discord (Serhii | NQ4.net#0020) - ceo@nq4.net
 
 Oleksandr Chub - [@huan_carlos](https://twitter.com/huan_carlos) - admin@nq4.net
 
-Pedro Surita - [@p_surita](https://twitter.com/p_surita)
+Pedro Surita - [@p_surita](https://twitter.com/p_surita) - pedro.surita@protonmail.com
 
 Company Link: [https://github.com/nq4-net](https://github.com/nq4-net)
 
