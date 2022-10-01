@@ -13,6 +13,7 @@
 - [Defina sua taxa mínima de validação para 5% Talk #10](https://pt.nq4.net/X8XPIxMcNSa)
 - [Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
 - [Blockchain AI Spaces](https://pt.nq4.net/cZzYVbAth-j)
+- [Polkadot DevCamp Intake #2](https://medium.com/@lendoff1337/polkadot-devcamp-intake-2-em-portugues-3e801f8599cf)
 
 ### Other languages:
 - [Ukrainian](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
