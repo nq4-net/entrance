@@ -35,6 +35,7 @@
 - [Solana Labs запускає Solana Pay, платіжний протокол для цифрової комерції](https://ua.nq4.net/DqvwhBaCPsS)
 - [Про програму для амбасадорів від BIT.Country](https://teletype.in/@plusua/5F6vZ0Oijij)
 - [Пропонуємо світове турне Solana Hacker House](https://ua.nq4.net/kO3o3P2m4Av)
+- [Polkadot DevCamp Intake #2](https://medium.com/@smayl1337/polkadot-devcamp-intake-2-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9-427c8f36a838)
 
 ### Other languages:
 - [Portuguese](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
