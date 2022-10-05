@@ -7,6 +7,9 @@
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/networks/kusama.md)
 - [Meme Network](https://github.com/nq4-net/entrance/blob/main/networks/meme.md)
 - [Chihuahua Chain](https://github.com/nq4-net/entrance/blob/main/networks/chihuahua.md)
+- [Polkadot](https://github.com/nq4-net/entrance/blob/main/networks/polkadot.md)
+- [Aleo](https://github.com/nq4-net/entrance/blob/main/networks/aleo.md)
+- [Meson](https://meson.network/)
 
 
 ## Active Testnets
@@ -58,9 +61,9 @@
 - [Streamr](https://github.com/nq4-net/entrance/blob/main/networks/streamr.md)
 - [Vega](https://github.com/nq4-net/entrance/blob/main/networks/vega.md)
 - [Evmos](https://github.com/nq4-net/entrance/blob/main/networks/evmos.md)
-- [Meson](https://meson.network/)
-- [Aleo](https://github.com/nq4-net/entrance/blob/main/networks/aleo.md)
-- [Polkadot](https://github.com/nq4-net/entrance/blob/main/networks/polkadot.md)
+
+
+
 
 
 [<<back to main](https://github.com/nq4-net/entrance)
