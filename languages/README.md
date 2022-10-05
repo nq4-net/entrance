@@ -9,11 +9,13 @@ All our translation to Ukranian you can see [here](https://github.com/nq4-net/en
 ### Bulgarian
 All our translation to Bulgarian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
+### Portuguese
+All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
+
 ### Russian
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
 
-### Portuguese
-All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
+
 
 
 [<<back to main](https://github.com/nq4-net/entrance)
