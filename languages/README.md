@@ -12,5 +12,8 @@ All our translation to Bulgarian you can see [here](https://github.com/nq4-net/e
 ### Russian
 All our translation to Russian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/russian.md)
 
+### Portuguese
+All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
+
 
 [<<back to main](https://github.com/nq4-net/entrance)
