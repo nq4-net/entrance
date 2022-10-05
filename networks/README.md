@@ -5,6 +5,7 @@
 - [Fetch](https://github.com/nq4-net/entrance/blob/main/networks/fetch.md)
 - [KAVA](https://github.com/nq4-net/entrance/blob/main/networks/kava.md)
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/networks/kusama.md)
+- [Polkadot](https://github.com/nq4-net/entrance/blob/main/networks/polkadot.md)
 
 
 ## Active Testnets
@@ -51,7 +52,7 @@
 - [Evmos](https://github.com/nq4-net/entrance/blob/main/networks/evmos.md)
 - [Meson](https://meson.network/)
 - [Aleo](https://github.com/nq4-net/entrance/blob/main/networks/aleo.md)
-- [Polkadot](https://github.com/nq4-net/entrance/blob/main/networks/polkadot.md)
+
 
 
 [<<back to main](https://github.com/nq4-net/entrance)
