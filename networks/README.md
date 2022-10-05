@@ -6,7 +6,7 @@
 - [KAVA](https://github.com/nq4-net/entrance/blob/main/networks/kava.md)
 - [Kusama](https://github.com/nq4-net/entrance/blob/main/networks/kusama.md)
 - [Polkadot](https://github.com/nq4-net/entrance/blob/main/networks/polkadot.md)
-
+- [Aleo](https://github.com/nq4-net/entrance/blob/main/networks/aleo.md)
 
 ## Active Testnets
 - [Starknet](https://starkware.co/)
@@ -51,7 +51,7 @@
 - [Vega](https://github.com/nq4-net/entrance/blob/main/networks/vega.md)
 - [Evmos](https://github.com/nq4-net/entrance/blob/main/networks/evmos.md)
 - [Meson](https://meson.network/)
-- [Aleo](https://github.com/nq4-net/entrance/blob/main/networks/aleo.md)
+
 
 
 
