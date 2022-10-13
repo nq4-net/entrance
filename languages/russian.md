@@ -3,7 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
-- [Gov2: следующее поколение децентрализованного управления Polkadot](https://ru.nq4.net/m-b_7m11jIV)
+- [Gov2: следующее поколение децентрализованного управления Polkadot](https://ru.nq4.net/m-b_7m11jIV) 
 - [Curve Finance запускается на платформе Kava](https://ru.nq4.net/qxvHlWtjTSA)
 - [Sub0, конференция разработчиков Polkadot, пройдет в ноябре в Лиссабоне](https://ru.nq4.net/RmnSMjgEM43)
 - [Предложение для парачейнов общего блага](https://ru.nq4.net/g3Z8Ziz8mzI)
