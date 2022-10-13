@@ -33,7 +33,7 @@ All our translation to Russian you can see [here](https://github.com/nq4-net/ent
 All our translation to Bulgarian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 ### Portuguese
-- [Gov2: a próxima geração de governança descentralizada da Polkadot](https://pt.nq4.net/9Bc4WQVqIvK)
+- [Gov2: a próxima geração de governança descentralizada da Polkadot](https://pt.nq4.net/9Bc4WQVqIvK) 
 - [Sub0, a Polkadot Developer Conference, chega a Lisboa em novembro](https://pt.nq4.net/Ni5UFqc96Fd)
 - [Proposta de Paracadeias de Bem Comum](https://pt.nq4.net/55aVBt-5inH)
 - [Web3 Talks: Desbloqueando a verdadeira interação entre cadeias](https://pt.nq4.net/ZOTyfGahBpc)
@@ -54,4 +54,4 @@ All our communities contributions list [here](https://github.com/nq4-net/entranc
 
 [<<back to networks](https://github.com/nq4-net/entrance/tree/main/networks)
 
-[<<back to main](https://github.com/nq4-net/entrance)
+[<<back to main](https://github.com/nq4-net/entrance
