@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to Polkadot
 ### Ukrainian
+- [Gov2: наступне покоління децентралізованого управління Polkadot](https://ua.nq4.net/5OS8mv0K3IT)
 - [Sub0, конференція розробників Polkadot, відбудеться в Лісабоні в листопаді](https://ua.nq4.net/PZT3K-IX7yH)
 - [Пропозиція для парачейнів Common Good](https://ua.nq4.net/GQsFnxCIkZ_)
 - [Web3 Talks: Розблокування справжньої крос-ланцюжкової взаємодії](https://ua.nq4.net/uxtopZb9jpX)
@@ -17,6 +18,7 @@
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Russian
+- [Gov2: следующее поколение децентрализованного управления Polkadot](https://ru.nq4.net/m-b_7m11jIV)
 - [Sub0, конференция разработчиков Polkadot, пройдет в ноябре в Лиссабоне](https://ru.nq4.net/RmnSMjgEM43)
 - [Предложение для парачейнов общего блага](https://ru.nq4.net/g3Z8Ziz8mzI)
 - [Web3 Talks: Разблокирование настоящего кросс-цепочного взаимодействия](https://ru.nq4.net/_lEQjWY25S4)
@@ -31,6 +33,7 @@ All our translation to Russian you can see [here](https://github.com/nq4-net/ent
 All our translation to Bulgarian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 ### Portuguese
+- [Gov2: a próxima geração de governança descentralizada da Polkadot](https://pt.nq4.net/9Bc4WQVqIvK)
 - [Sub0, a Polkadot Developer Conference, chega a Lisboa em novembro](https://pt.nq4.net/Ni5UFqc96Fd)
 - [Proposta de Paracadeias de Bem Comum](https://pt.nq4.net/55aVBt-5inH)
 - [Web3 Talks: Desbloqueando a verdadeira interação entre cadeias](https://pt.nq4.net/ZOTyfGahBpc)
