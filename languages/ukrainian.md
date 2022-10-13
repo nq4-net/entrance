@@ -3,7 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
-- [Gov2: наступне покоління децентралізованого управління Polkadot](https://ua.nq4.net/5OS8mv0K3IT)
+- [Gov2: наступне покоління децентралізованого управління Polkadot](https://ua.nq4.net/5OS8mv0K3IT) 
 - [Curve Finance запускається на платформі Kava](https://ua.nq4.net/LG4PwVyOy5T)
 - [Sub0, конференція розробників Polkadot, відбудеться в Лісабоні в листопаді](https://ua.nq4.net/PZT3K-IX7yH)
 - [Пропозиція для парачейнів Common Good](https://ua.nq4.net/GQsFnxCIkZ_)
