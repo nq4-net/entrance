@@ -3,7 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
-- [Gov2: a próxima geração de governança descentralizada da Polkadot](https://pt.nq4.net/9Bc4WQVqIvK)
+- [Gov2: a próxima geração de governança descentralizada da Polkadot](https://pt.nq4.net/9Bc4WQVqIvK) 
 - [Curve Finance Launches on Kava](https://pt.nq4.net/QQ4yZ8JQQcA)
 - [Sub0, a Polkadot Developer Conference, chega a Lisboa em novembro](https://pt.nq4.net/Ni5UFqc96Fd)
 - [Proposta de Paracadeias de Bem Comum](https://pt.nq4.net/55aVBt-5inH)
