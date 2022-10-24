@@ -11,7 +11,7 @@
 
 
 ### Portuguese
-- [Metaverso e Blockchain – alvorecer de uma nova era. Parceria MEmob+ com Odin](https://pt.nq4.net/8k0d6wuUuhQ)
+- [Metaverso e Blockchain – alvorecer de uma nova era. Parceria MEmob+ com Odin](https://pt.nq4.net/8k0d6wuUuhQ) 
 - [Atualizações técnicas do ODIN nas últimas duas semanas](https://pt.nq4.net/xpALfCzg4sM)
 
 
