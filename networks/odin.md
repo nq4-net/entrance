@@ -6,14 +6,17 @@
 
 ## Our contribution with translations to ODIN protocol
 ### Ukrainian
+- [Метавсесвіт і блокчейн - світанок нової ери. Партнерство MEmob+ із Odin](https://ua.nq4.net/m0dKn620Sw7)
 - [Технічні оновлення ODIN за останні два тижні](https://ua.nq4.net/RcoVaQHqRPT)
 
 
 ### Portuguese
+- [Metaverso e Blockchain – alvorecer de uma nova era. Parceria MEmob+ com Odin](https://pt.nq4.net/8k0d6wuUuhQ)
 - [Atualizações técnicas do ODIN nas últimas duas semanas](https://pt.nq4.net/xpALfCzg4sM)
 
 
 ### Russian
+- [Метавселенная и блокчейн — рассвет новой эры. Партнерство MEmob+ с Odin](https://ru.nq4.net/WGuwmW7LREj)
 - [Технические обновления ODIN за последние две недели](https://ru.nq4.net/OtcHvOjT8e8)
 
 ## Communities and channels created, supported and moderated.
