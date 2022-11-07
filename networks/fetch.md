@@ -7,6 +7,7 @@
 
 ## Our contribution with translations to Fetch.Ai
 ### Ukrainian
+- [Випущено гаманець Fetch.ai версії 0.4.0!](https://ua.nq4.net/ahplIFVD8s8)
 - [Як насолоджуватися STARFLEIT](https://ua.nq4.net/PKCcamR2kOe)
 - [Встановлюйте мінімальну комісію валідатора на 5% · Обговорення №10](https://ua.nq4.net/TmmIHmRLIz_)
 - [Blockchain AI Spaces](https://ua.nq4.net/bwfyDl_2IHV)
@@ -19,6 +20,7 @@
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Portuguese
+- [Fetch.ai Wallet v0.4.0 Lançado!](https://pt.nq4.net/TJAADc36wcX)
 - [Como aproveitar STARFLEIT](https://pt.nq4.net/oYGasiLEEYr)
 - [Defina sua taxa mínima de validação para 5% Talk #10](https://pt.nq4.net/X8XPIxMcNSa)
 - [Blockchain AI Spaces](https://pt.nq4.net/uHW54xfmdPM)
@@ -27,6 +29,7 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 
 ### Russian
+- [Выпущен кошелек Fetch.ai версии 0.4.0!](https://ru.nq4.net/g9Ak_2x-8XK)
 - [Как наслаждаться STARFLEIT](https://ru.nq4.net/JsVVXUAZ186)
 - [Установите минимальную комиссию валидатора на 5% · Обсуждение №10](https://ru.nq4.net/LcMjwPyMgqK)
 - [Blockchain AI Spaces](https://ru.nq4.net/jSH3O4EqSyt)
