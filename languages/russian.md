@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Выпущен кошелек Fetch.ai версии 0.4.0!](https://ru.nq4.net/g9Ak_2x-8XK)
 - [Метавселенная и блокчейн — рассвет новой эры. Партнерство MEmob+ с Odin](https://ru.nq4.net/WGuwmW7LREj)
 - [Gov2: следующее поколение децентрализованного управления Polkadot](https://ru.nq4.net/m-b_7m11jIV) 
 - [Curve Finance запускается на платформе Kava](https://ru.nq4.net/qxvHlWtjTSA)
