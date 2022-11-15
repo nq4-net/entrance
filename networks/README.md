@@ -10,6 +10,7 @@
 
 
 ## Active Testnets
+- [Joystream](https://github.com/nq4-net/entrance/blob/main/networks/joystream.md)
 - [Starknet](https://starkware.co/)
 - [Masa Finance](https://github.com/nq4-net/entrance/blob/main/networks/masa.md)
 - [Casper](https://github.com/nq4-net/entrance/blob/main/networks/casper.md)
@@ -17,12 +18,11 @@
 - [Solana](https://github.com/nq4-net/entrance/blob/main/networks/solana.md)	
 - [IronFish](https://github.com/nq4-net/entrance/blob/main/networks/ironfish.md)
 - [Minima](https://minima.global/)
-- [Obol Network](https://obol.tech/)
 - [Transformers](https://www.tfsc.io/)
 - [Subspace](https://subspace.network/)
 
 
-## Genesis validator, but not in active set:
+## Genesis validator, but not in set:
 - [OmniFlix](https://github.com/nq4-net/entrance/blob/main/networks/omniflix.md)
 - [Ki chain](https://github.com/nq4-net/entrance/blob/main/networks/kichain.md)
 - [Haqq](https://github.com/nq4-net/entrance/blob/main/networks/haqq.md)
@@ -35,17 +35,13 @@
 
 
 ## Active Devnets
-- [Celestia](https://github.com/nq4-net/entrance/blob/main/networks/celestia.md)
-- [Zeeka Network](https://zeeka.io/)
 
 
 ## Other activity
-- [SubQuery](https://subquery.network/)
-- [Forta](https://forta.org/)
-
 
 
 ## Finished Activity
+- [Obol Network](https://obol.tech/)
 - [SUI](https://sui.io/)
 - [Aptos](https://aptoslabs.com/)
 - [KYVE](https://www.kyve.network/)
@@ -60,8 +56,10 @@
 - [Streamr](https://github.com/nq4-net/entrance/blob/main/networks/streamr.md)
 - [Vega](https://github.com/nq4-net/entrance/blob/main/networks/vega.md)
 - [Evmos](https://github.com/nq4-net/entrance/blob/main/networks/evmos.md)
-
-
+- [SubQuery](https://subquery.network/)
+- [Forta](https://forta.org/)
+- [Celestia](https://github.com/nq4-net/entrance/blob/main/networks/celestia.md)
+- [Zeeka Network](https://zeeka.io/)
 
 
 

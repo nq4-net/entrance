@@ -2,7 +2,7 @@
 
 ## Our technical contributions to Kusama
 
-- We validate in [mainnet](https://kusama.polkastats.io/validator/HbnDhMBcrVe9jFgHQT96LKvuEQgxArFm9dkdvxE2kSaqroS)
+- We validate in [mainnet](https://insights.math-crypto.com/kusama/HbnDhMBcrVe9jFgHQT96LKvuEQgxArFm9dkdvxE2kSaqroS/)
 
 ## Our contribution with translations to Kusama
 ### Ukrainian
