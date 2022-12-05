@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Привіт всім! Гаманець версії 0.5.0 вийшов!](https://ua.nq4.net/CJzT12yaxJX)
 - [Випущено гаманець Fetch.ai версії 0.4.0!](https://ua.nq4.net/ahplIFVD8s8)
 - [Метавсесвіт і блокчейн - світанок нової ери. Партнерство MEmob+ із Odin](https://ua.nq4.net/m0dKn620Sw7) 
 - [Gov2: наступне покоління децентралізованого управління Polkadot](https://ua.nq4.net/5OS8mv0K3IT) 
