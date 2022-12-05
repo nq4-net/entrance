@@ -7,6 +7,7 @@
 
 ## Our contribution with translations to Fetch.Ai
 ### Ukrainian
+- [Привіт всім! Гаманець версії 0.5.0 вийшов!](https://ua.nq4.net/CJzT12yaxJX)
 - [Випущено гаманець Fetch.ai версії 0.4.0!](https://ua.nq4.net/ahplIFVD8s8)
 - [Як насолоджуватися STARFLEIT](https://ua.nq4.net/PKCcamR2kOe)
 - [Встановлюйте мінімальну комісію валідатора на 5% · Обговорення №10](https://ua.nq4.net/TmmIHmRLIz_)
@@ -20,6 +21,7 @@
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Portuguese
+- [Olá a todos! A carteira v0.5.0 está ativa!](https://pt.nq4.net/cVYnvcIjezH)
 - [Fetch.ai Wallet v0.4.0 Lançado!](https://pt.nq4.net/TJAADc36wcX)
 - [Como aproveitar STARFLEIT](https://pt.nq4.net/oYGasiLEEYr)
 - [Defina sua taxa mínima de validação para 5% Talk #10](https://pt.nq4.net/X8XPIxMcNSa)
@@ -29,6 +31,7 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 
 ### Russian
+- [Всем привет! Кошелёк версии 0.5.0 вышел!](https://ru.nq4.net/uUqBu9b3GJK)
 - [Выпущен кошелек Fetch.ai версии 0.4.0!](https://ru.nq4.net/g9Ak_2x-8XK)
 - [Как наслаждаться STARFLEIT](https://ru.nq4.net/JsVVXUAZ186)
 - [Установите минимальную комиссию валидатора на 5% · Обсуждение №10](https://ru.nq4.net/LcMjwPyMgqK)
