@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
+- [Olá a todos! A carteira v0.5.0 está ativa!](https://pt.nq4.net/cVYnvcIjezH)
 - [Fetch.ai Wallet v0.4.0 Lançado!](https://pt.nq4.net/TJAADc36wcX)
 - [Metaverso e Blockchain – alvorecer de uma nova era. Parceria MEmob+ com Odin](https://pt.nq4.net/8k0d6wuUuhQ)
 - [Gov2: a próxima geração de governança descentralizada da Polkadot](https://pt.nq4.net/9Bc4WQVqIvK) 
