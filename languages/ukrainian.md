@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Kava співпрацює з Bitget Exchange, щоб залучити більше трейдерів до Web3](https://ua.nq4.net/v48M7ZEA9xN)
 - [Підсумки Polkadot 2022](https://ua.nq4.net/KScMYuHUKB0)
 - [Привіт всім! Гаманець версії 0.5.0 вийшов!](https://ua.nq4.net/CJzT12yaxJX)
 - [Випущено гаманець Fetch.ai версії 0.4.0!](https://ua.nq4.net/ahplIFVD8s8)
