@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Kava сотрудничает с Bitget Exchange, чтобы привлечь больше трейдеров в Web3](https://ru.nq4.net/8mBhGu_z3cL)
 - [Итоги Polkadot 2022](https://ru.nq4.net/hbPvl5IBgwI)
 - [Всем привет! Кошелёк версии 0.5.0 вышел!](https://ru.nq4.net/uUqBu9b3GJK)
 - [Выпущен кошелек Fetch.ai версии 0.4.0!](https://ru.nq4.net/g9Ak_2x-8XK)
