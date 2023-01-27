@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Как купить $Odin](https://ru.nq4.net/QHXE0irhWD6)
 - [Kava сотрудничает с Bitget Exchange, чтобы привлечь больше трейдеров в Web3](https://ru.nq4.net/8mBhGu_z3cL)
 - [Итоги Polkadot 2022](https://ru.nq4.net/hbPvl5IBgwI)
 - [Всем привет! Кошелёк версии 0.5.0 вышел!](https://ru.nq4.net/uUqBu9b3GJK)
