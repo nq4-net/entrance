@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
+- [Kava 12: um divisor de águas para o ecossistema do cosmos](https://pt.nq4.net/viGywgXb75A)
 - [Como comprar $Odin](https://pt.nq4.net/UOiEtAlZG7y)
 - [Kava faz parceria com Bitget Exchange para trazer mais comerciantes para Web3](https://pt.nq4.net/4_uzMslm_YA)
 - [Polkadot 2022 Roundup](https://pt.nq4.net/M8YMi-jaRpB)
