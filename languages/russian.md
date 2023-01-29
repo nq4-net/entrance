@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Kava 12: Игра, изменившая экосистему Cosmos](https://ru.nq4.net/S8MUe7H4UeU)
 - [Как купить $Odin](https://ru.nq4.net/QHXE0irhWD6)
 - [Kava сотрудничает с Bitget Exchange, чтобы привлечь больше трейдеров в Web3](https://ru.nq4.net/8mBhGu_z3cL)
 - [Итоги Polkadot 2022](https://ru.nq4.net/hbPvl5IBgwI)
