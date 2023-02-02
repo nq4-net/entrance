@@ -6,6 +6,7 @@
 
 ## Our contribution with translations to KAVA
 ### Ukrainian
+- [Kava 12: Гра, що змінила екосистему Cosmos](https://ua.nq4.net/Av00cRdh7VM)
 - [Kava співпрацює з Bitget Exchange, щоб залучити більше трейдерів до Web3](https://ua.nq4.net/v48M7ZEA9xN)
 - [Curve Finance запускається на платформі Kava](https://ua.nq4.net/LG4PwVyOy5T)
 - [Фонд Kava](https://ua.nq4.net/7oeFlQL4oca#7EWb)
@@ -24,6 +25,7 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 All our translation to Bulgarian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/bulgarian.md)
 
 ### Portuguese
+- [Kava 12: um divisor de águas para o ecossistema do cosmos](https://pt.nq4.net/viGywgXb75A)
 - [Kava faz parceria com Bitget Exchange para trazer mais comerciantes para Web3](https://pt.nq4.net/4_uzMslm_YA)
 - [Curve Finance Launches on Kava](https://pt.nq4.net/QQ4yZ8JQQcA)
 - [Fundação Kava](https://pt.nq4.net/iq5aGflpf2c)
@@ -32,6 +34,7 @@ All our translation to Bulgarian you can see [here](https://github.com/nq4-net/e
 All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 
 ### Russian
+- [Kava 12: Игра, изменившая экосистему Cosmos](https://ru.nq4.net/S8MUe7H4UeU)
 - [Kava сотрудничает с Bitget Exchange, чтобы привлечь больше трейдеров в Web3](https://ru.nq4.net/8mBhGu_z3cL)
 - [Curve Finance запускается на платформе Kava](https://ru.nq4.net/qxvHlWtjTSA)
 - [Фонд Kava](https://ru.nq4.net/XGoFIt7_JaR)
