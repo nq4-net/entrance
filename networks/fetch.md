@@ -7,6 +7,7 @@
 
 ## Our contribution with translations to Fetch.Ai
 ### Ukrainian
+- [Що таке гаманець Web3?](https://ua.nq4.net/NxZksumkpXZ)
 - [Привіт всім! Гаманець версії 0.5.0 вийшов!](https://ua.nq4.net/CJzT12yaxJX)
 - [Випущено гаманець Fetch.ai версії 0.4.0!](https://ua.nq4.net/ahplIFVD8s8)
 - [Як насолоджуватися STARFLEIT](https://ua.nq4.net/PKCcamR2kOe)
@@ -21,6 +22,7 @@
 All our translation to Ukrainian you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/ukrainian.md)
 
 ### Portuguese
+- [O que é uma Carteira Web3?](https://pt.nq4.net/WdaUVQU8-zk)
 - [Olá a todos! A carteira v0.5.0 está ativa!](https://pt.nq4.net/cVYnvcIjezH)
 - [Fetch.ai Wallet v0.4.0 Lançado!](https://pt.nq4.net/TJAADc36wcX)
 - [Como aproveitar STARFLEIT](https://pt.nq4.net/oYGasiLEEYr)
@@ -31,6 +33,7 @@ All our translation to Ukrainian you can see [here](https://github.com/nq4-net/e
 All our translation to Portuguese you can see [here](https://github.com/nq4-net/entrance/blob/main/languages/portuguese.md)
 
 ### Russian
+- [Что такое кошелек Web3?](https://ru.nq4.net/KuvQ7qTIwBs)
 - [Всем привет! Кошелёк версии 0.5.0 вышел!](https://ru.nq4.net/uUqBu9b3GJK)
 - [Выпущен кошелек Fetch.ai версии 0.4.0!](https://ru.nq4.net/g9Ak_2x-8XK)
 - [Как наслаждаться STARFLEIT](https://ru.nq4.net/JsVVXUAZ186)
