@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Portuguese
+- [O que é uma Carteira Web3?](https://pt.nq4.net/WdaUVQU8-zk)
 - [Kava 12: um divisor de águas para o ecossistema do cosmos](https://pt.nq4.net/viGywgXb75A)
 - [Como comprar $Odin](https://pt.nq4.net/UOiEtAlZG7y)
 - [Kava faz parceria com Bitget Exchange para trazer mais comerciantes para Web3](https://pt.nq4.net/4_uzMslm_YA)
