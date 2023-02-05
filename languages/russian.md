@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Russian
+- [Что такое кошелек Web3?](https://ru.nq4.net/KuvQ7qTIwBs)
 - [Kava 12: Игра, изменившая экосистему Cosmos](https://ru.nq4.net/S8MUe7H4UeU)
 - [Как купить $Odin](https://ru.nq4.net/QHXE0irhWD6)
 - [Kava сотрудничает с Bitget Exchange, чтобы привлечь больше трейдеров в Web3](https://ru.nq4.net/8mBhGu_z3cL)
