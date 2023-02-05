@@ -3,6 +3,7 @@
 ## List are active and will be updated after any changes made
 
 ### Ukranian
+- [Що таке гаманець Web3?](https://ua.nq4.net/NxZksumkpXZ)
 - [Kava 12: Гра, що змінила екосистему Cosmos](https://ua.nq4.net/Av00cRdh7VM)
 - [Як купити $Odin](https://ua.nq4.net/DEbqFb7-RoZ)
 - [Kava співпрацює з Bitget Exchange, щоб залучити більше трейдерів до Web3](https://ua.nq4.net/v48M7ZEA9xN)
